@@ -1,4 +1,5 @@
-<h1>Sistema de cadastro de jogos</h1>
+<h1 align="center"> Título </h1>
+https://img.shields.io/twitter/url?style=social
 
 > Status do projeto: em desenvolvimento
 
