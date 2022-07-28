@@ -11,7 +11,7 @@ node app.js
 
 ## Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Tiago Pinz Graffunder</sub>](https://github.com/tiagograff) |
+| [<img src="https://github.com/account" width=115><br><sub>Tiago Pinz Graffunder</sub>](https://github.com/tiagograff) |
 | :---: |
 
 :)
